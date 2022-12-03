@@ -2,7 +2,7 @@ package ListaEnteros;
 
 /**
  *
- * @author Josthen Gabriel Chauca 
+ * @author User 
  */
 public class Lista {
     protected Nodo primero;

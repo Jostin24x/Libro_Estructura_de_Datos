@@ -1,7 +1,7 @@
 package ListaEnteros;
 /**
  *
- * @author Josthen Gabriel Chauca 
+ * @author User
  */
 public class Nodo {
     

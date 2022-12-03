@@ -1,7 +1,7 @@
 package listaDobleEnlace;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author User
  */
 public class IteradorLista {
     private Nodo actual;

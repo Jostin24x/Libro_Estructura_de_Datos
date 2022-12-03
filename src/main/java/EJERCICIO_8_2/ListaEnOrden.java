@@ -2,7 +2,7 @@ package EJERCICIO_8_2;
 import java.util.*;
 /**
  *
- * @author Josthen Gabriel Chauca 
+ * @author User
  */
 public class ListaEnOrden {
     public static void main(String [] a) {

@@ -3,7 +3,7 @@ import ListaEnteros.Lista;
 import ListaEnteros.Nodo;
 /**
  *
- * @author Josthen Gabriel Chauca 
+ * @author User 
  *
  */
 public class ListaOrdenada extends Lista{

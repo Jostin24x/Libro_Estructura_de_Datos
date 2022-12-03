@@ -1,7 +1,7 @@
 package listaDobleEnlace;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author User
  */
 public class Nodo {
     // declaración de nodo de lista doble

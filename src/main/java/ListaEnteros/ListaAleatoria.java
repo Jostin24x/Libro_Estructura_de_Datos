@@ -3,7 +3,7 @@ import java.util.Random;
 import ListaEnteros.*;
 /**
  *
- * @author Josthen Gabriel Chauca 
+ * @author User
  */
 public class ListaAleatoria {
 

@@ -1,7 +1,7 @@
 package listaCircularPalabra;
 /**
  *
- * @author Josthen Gabriel
+ * @author User
  */
 public class Nodo {
     

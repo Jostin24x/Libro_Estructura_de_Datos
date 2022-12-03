@@ -4,7 +4,7 @@ import java.io.*;
 import listaDobleEnlace.*;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author User
  */
 public class ListaEnRango {
 
